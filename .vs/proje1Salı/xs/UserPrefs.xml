@@ -4,28 +4,33 @@
   <MonoDevelop.Ide.ItemProperties.proje1Salı PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.Workbench ActiveDocument="proje1Salı/Views/Shared/_Layout.cshtml">
     <Files>
-      <File FileName="proje1Salı/Views/Shared/_Layout.cshtml" Line="40" Column="21" />
-      <File FileName="proje1Salı/Views/Shared/_Layout2.cshtml" />
+      <File FileName="proje1Salı/Data/AppDbContext.cs" Line="19" Column="1" />
+      <File FileName="proje1Salı/Program.cs" Line="1" Column="1" />
+      <File FileName="proje1Salı/Controllers/AdminController.cs" Line="16" Column="27" />
+      <File FileName="proje1Salı/Models/Place.cs" Line="1" Column="1" />
+      <File FileName="proje1Salı/Views/Admin/Index.cshtml" Line="7" Column="7" />
+      <File FileName="proje1Salı/Views/Shared/_Layout.cshtml" Line="9" Column="50" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="proje1Salı" expanded="True">
+          <Node name="proje1Salı">
             <Node name="proje1Salı">
-              <Node name="Views" expanded="True">
-                <Node name="Admin" expanded="True" />
-                <Node name="Home" expanded="True" />
-                <Node name="Shared" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views">
+                <Node name="Shared">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
